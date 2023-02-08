@@ -14,4 +14,4 @@ Since statement analysis has been conducted only through face-to-face interviews
 • built a program for the transformation of questions with a short-answer into declarative sentences
   
      
-![image](https://user-images.githubusercontent.com/89725142/214899740-d12f0044-4dd3-40b9-b602-d1a4dbaabe3b.png)
+![image](https://user-images.githubusercontent.com/89725142/217611184-35907020-215b-4dec-8587-46c9d6378ac9.png)
